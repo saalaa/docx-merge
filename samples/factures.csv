@@ -1,0 +1,3 @@
+Date,Facture,Architecte,Email Architecte,Client,Ligne description,Ligne qte,Ligne PU,Ligne Total,Sous-total,Taxes,Total
+2019-02-15,INV001,Pachine,pachinee@example.com,benoit@example.com,Avant-apres salon,1.00 €,100.00 €,100.00 €,100.00 €,20.00 €,120.00 €
+2019-02-16,INV002,Kae,kae@example.com,benoit@example.com,Avant-apres chambre,3.00 €,100.00 €,300.00 €,300.00 €,60.00 €,260.00 €
