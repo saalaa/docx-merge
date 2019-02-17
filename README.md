@@ -3,7 +3,7 @@
 Cut DOCX documents into smaller files, apply naming rules based on extracted
 text fields (assumes similar sub-documents).
 
-![screencast](https://github.com/saalaa/docx-merge/raw/master/src/screencast.webm)
+![screencast](https://raw.githubusercontent.com/saalaa/docx-merge/master/screencast.webm)
 
 
 ## Building
